@@ -1,23 +1,15 @@
-NAME:
-=====
-Joseph Kawamura
-
-Program Files:
-===============
-
-    Heap.c
-    Heap.h
-    Main.c
-    Node.c
-    Node.h
+# Program Files
+- Heap.c
+- Heap.h
+- Main.c
+- Node.c
+- Node.h
 	
-How to Compile:
-===============
+# How to Compile:
 
-    "make huff" (Equivalent to "gcc -o huff main.c Heap.c Node.c Tree.c")
+    `make huff` (Equivalent to `gcc -o huff main.c Heap.c Node.c Tree.c`)
   
-How to Run:
-===========
+# How to Run:
 
     To compress:
         "./heap 1 input.txt output.cmp" (Where input.txt is any text file using only characters in the ASCII set, 
