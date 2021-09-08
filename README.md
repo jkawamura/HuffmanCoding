@@ -9,7 +9,9 @@
 	
 ### How to Compile:
 
-    *make huff* (Equivalent to *gcc -o huff main.c Heap.c Node.c Tree.c*)
+`make huff` 
+
+Equivalent to `gcc -o huff main.c Heap.c Node.c Tree.c`
   
 ### How to Run:
 
