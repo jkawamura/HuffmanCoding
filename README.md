@@ -1,27 +1,29 @@
 
+# Huffman Compression
 
-### Program Files
+### Program Files:
+
 - Heap.c
 - Heap.h
 - Main.c
 - Node.c
 - Node.h
 	
-### How to Compile:
+## How to Compile:
 
 `make huff` 
 
 Equivalent to `gcc -o huff main.c Heap.c Node.c Tree.c`
   
-### How to Run:
+## How to Run:
 
-**To compress:**
+**Compression:**
 
 `./heap 1 input.txt output.cmp` 
 	
 Where input.txt is any text file using only characters in the ASCII set, and output.cmp is the file the compressed output will be written to.
     
-**To Decompress:**
+**Decompression:**
 
 `./heap 2 output.cmp output.txt` 
 
