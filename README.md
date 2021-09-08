@@ -1,7 +1,7 @@
 
 # Huffman Compression
 
-### Program Files:
+## Program Files:
 
 - Heap.c
 - Heap.h
