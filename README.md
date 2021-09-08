@@ -21,6 +21,6 @@ Where input.txt is any text file using only characters in the ASCII set, and out
     
 **To Decompress:**
 
-'./heap 2 output.cmp output.txt` 
+`./heap 2 output.cmp output.txt` 
 
 Where output.cmp is any compressed file that has been encoded by this program and output.txt is the text file the decompressed output will be written to.
